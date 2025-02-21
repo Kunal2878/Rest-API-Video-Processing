@@ -40,7 +40,7 @@ app.listen(PORT, () => {
     process.env.JWT_SECRET,
     { expiresIn: '36h' } // optional expiration
   );
-  console.log("Token",token)
+  console.log("Token: use this in the bearer token field",token)
 });
 
 module.exports = app;
