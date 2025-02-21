@@ -1,0 +1,29 @@
+video-api/
+├── src/
+│   ├── config/
+│   │   ├── database.js
+│   │   └── config.js
+│   ├── middleware/
+│   │   ├── auth.js
+│   │   ├── errorHandler.js
+│   │   └── upload.js
+│   ├── controllers/
+│   │   └── videoController.js
+│   ├── routes/
+│   │   └── videoRoutes.js
+│   ├── utils/
+│   │   ├── tokens.js
+│   │   └── videoProcessor.js
+│   ├── tests/
+│   │   ├── unit/
+│   │   │   └── video.test.js
+│   │   └── e2e/
+│   │       └── api.test.js
+│   └── app.js
+├── uploads/
+├── swagger/
+│   └── api.yaml
+├── database.sqlite
+├── jest.config.js
+├── jest.e2e.config.js
+└── package.json

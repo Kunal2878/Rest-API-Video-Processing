@@ -1,0 +1,7 @@
+node_modules/
+.env
+uploads/*
+!uploads/.gitkeep
+database.sqlite
+coverage/
+# "test": "echo \"Error: no test specified\" && exit 1"
