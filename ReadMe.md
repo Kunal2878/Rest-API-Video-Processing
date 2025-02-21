@@ -22,18 +22,12 @@ A REST API service for video file management with features like upload, trim, me
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/video-api.git
-cd video-api
+git clone https://github.com/Kunal2878/Rest-API-Video-Processing.git
 ```
 
 2. Install dependencies:
 ```bash
 npm install
-```
-
-3. Create uploads directory:
-```bash
-mkdir uploads
 ```
 
 ## Running the Application
@@ -64,7 +58,7 @@ npm test -- --coverage
 
 ## API Documentation
 
-API documentation is available at `/api-docs` when the server is running.
+API documentation is available at `http://localhost:3000/api-docs` when the server is running.
 
 ## Demo Video
 

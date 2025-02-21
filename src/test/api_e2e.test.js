@@ -1,14 +1,3 @@
-// Step 1: Make sure you have Node.js and npm installed
-// Step 2: Install dependencies: npm install jest supertest sqlite3
-// Step 3: Ensure SQLite is installed on your system
-// Step 4: Create test video files in test-files/sample1.mp4 and test-files/sample2.mp4
-// Step 5: Configure test environment in package.json:
-//   "scripts": {
-//     "test:e2e": "jest --config jest.config.e2e.js"
-//   }
-// Step 6: Run the test using: npm run test:e2e
-// Step 7: Check the test results in console output
-
 const request = require('supertest');
 const app = require('../app');
 const db = require('../config/database');
