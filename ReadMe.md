@@ -62,7 +62,7 @@ API documentation is available at `http://localhost:3000/api-docs` when the serv
 
 ## Demo Video
 
-[\[Link to demo video will be added here\]](https://drive.google.com/file/d/1ztl6CIFCujAtBKjmARyJriEAkhXRfEgp/view?usp=drive_link)
+[\[Link to demo video\]](https://drive.google.com/file/d/1ztl6CIFCujAtBKjmARyJriEAkhXRfEgp/view?usp=drive_link)
 
 ## Technical Choices
 
